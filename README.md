@@ -1,2 +1,1 @@
-# Discigo
-daily work tracker   
+
